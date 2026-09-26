@@ -9,7 +9,6 @@ availability_zone  = "us-east-1a"
 ami_id = "ami-0220d79f3f480ecf5"
 
 # Replace with your existing EC2 key pair name
-key_name = "my-key"
 
 instance_type = "t3.micro"
 
