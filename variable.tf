@@ -39,10 +39,7 @@ variable "instance_type" {
   default     = "t3.micro"
 }
 
-variable "key_name" {
-  description = "Existing EC2 key pair name"
-  type        = string
-}
+
 
 variable "ssh_allowed_cidr" {
   description = "CIDR allowed for SSH access"
