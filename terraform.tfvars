@@ -10,7 +10,7 @@ ami_id = "ami-0220d79f3f480ecf5"
 
 # Replace with your existing EC2 key pair name
 
-instance_type = "t3.micro"
+instance_type = "t2.xlarge"
 
 # For learning only.
 # In production, use your own public IP/32.
